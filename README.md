@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Html,Css**
 
-- 📫 How to reach me **itxmoizmirza42@gmail.com**
+- 📫 How to reach me **itxmirzamoiz42@gmail.com**
 
 - ⚡ Fun fact **Ready to win the web development**
 
