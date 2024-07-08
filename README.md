@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <b></b><h3 align="center">"Preparing to launch into the world of full-stack web development"</h3></b>
 
-<p align="left"> <img src=https://camo.githubusercontent.com/d3a1993429a8a9dcc641403f6cd6f51d8c361bb17ac28ef1f47052419e85e76d/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966 alt="itx-moiz" /> </p>
+<p align="left" hight= 400px> <img src=https://camo.githubusercontent.com/d3a1993429a8a9dcc641403f6cd6f51d8c361bb17ac28ef1f47052419e85e76d/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966 alt="itx-moiz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itx-moiz" alt="itx-moiz" /></a> </p>
 
