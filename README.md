@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">"Preparing to launch into the world of full-stack web development"</h3>
+<b></b><h3 align="center">"Preparing to launch into the world of full-stack web development"</h3></b>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itx-moiz&label=Profile%20views&color=0e75b6&style=flat" alt="itx-moiz" /> </p>
 
